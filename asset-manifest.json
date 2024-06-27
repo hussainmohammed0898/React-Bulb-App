@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/React-Bulb-App/static/css/main.e479d30f.css",
+    "main.js": "/React-Bulb-App/static/js/main.6b34e24e.js",
+    "static/media/alessandro-bianchi-_kdTyfnUFAc-unsplash.jpg": "/React-Bulb-App/static/media/alessandro-bianchi-_kdTyfnUFAc-unsplash.5303a1bcb60e6fc7ef1c.jpg",
+    "index.html": "/React-Bulb-App/index.html",
+    "main.e479d30f.css.map": "/React-Bulb-App/static/css/main.e479d30f.css.map",
+    "main.6b34e24e.js.map": "/React-Bulb-App/static/js/main.6b34e24e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e479d30f.css",
+    "static/js/main.6b34e24e.js"
+  ]
+}
